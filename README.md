@@ -6,6 +6,6 @@ The tool takes a configuration file as input and takes care of decrypting all th
 
 Tests were performed on firmware versions 4.7x, 5.0 and 5.1.
 
-A detailed description on how the tool works and the process of its creation can be found at [https://security.humativaspa.it/zyxel-firmware-extraction-and-password-analysis](https://security.humativaspa.it/zyxel-firmware-extraction-and-password-analysis)
+A detailed description on how the tool works and the process of its creation can be found at [https://security.humanativaspa.it/zyxel-firmware-extraction-and-password-analysis](https://security.humanativaspa.it/zyxel-firmware-extraction-and-password-analysis)
 
 If you wish you can contact me at [@0x696e6f6465](https://twitter.com/0x696e6f6465)
